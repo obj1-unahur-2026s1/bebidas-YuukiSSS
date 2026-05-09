@@ -7,3 +7,5 @@ object terere {
 object cianuro {
     method rendimientoQueOtorga(dosisConsumida) = 0
 }
+
+//prueba
